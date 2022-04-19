@@ -760,18 +760,7 @@
                     stroke="url(#linear-gradient-163)" />
       <line x1="1391.75" y1="127.68" x2="1391.75" y2="120.18" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"
                     stroke="url(#linear-gradient-164)" />
-                    
-                    <!--
-    </svg>
-    <div class="container">
-      <div class="deposits-counter">
-        <svg  viewBox="0 0 104.89 100.81">
-          <use xlink:href="#servicesPageIcon"></use>
-        </svg> </div> -->
 
-      <!--<div class="investment-offer" style="margin-top: 0">
-        <h2>What People Are Saying About Us</h2> -->
-        <p class="cust-serv"> <div class="home-features" style="padding-bottom: 0px">
 
            </header>
            
