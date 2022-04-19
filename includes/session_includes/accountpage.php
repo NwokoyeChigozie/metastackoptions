@@ -259,7 +259,7 @@
         <ul class="menuList">
             <li><a href="./?a=cust&amp;page=about">About Us</a></li>
             <!--<li><a href="./?a=cust&amp;page=guide">How It Works</a></li>-->
-            <li><a href="./?a=cust&amp;page=testimonials">Testimonials</a></li>
+            <li><a href="./?a=cust&amp;page=testimonials">Plans</a></li>
             <li><a href="./?a=cust&amp;page=partnership">Invite a Friend</a></li>
             <!--
     <li><a href="./?a=news">Blog</a></li> -->
