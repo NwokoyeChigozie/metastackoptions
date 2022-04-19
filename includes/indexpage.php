@@ -316,51 +316,7 @@
             </div>
         </div>
 
-        <div class="home-features" style="padding-bottom: 30px">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 ">
-                        <!--
-          <div class="home-features-item bitcoin">
-            <svg viewBox="0 0 51.42 52.83">
-              <use xlink:href="#bitcoin-home"></use>
-            </svg>
-            <strong>INSTANT WITHDRAWALS </strong>
-            <p> We usually process withdrawal requests between 1–3 hours, but it is up to your payment system how long it will take the money to reach the destination as the confirmation on the Blockchain network may vary depending on your wallet provider.   </p>
-          </div>-->
-                        <video width="320" height="240" controls>
-                            <source src="https://astroforex.net/styles/img/video8.MP4" type="video/mp4">
-                            <source src="https://astroforex.net/styles/img/video8.MP4" type="video/ogg">
-                        </video> </div>
-                    <div class="col-md-4 col-sm-4 ">
-                        <!--
-          <div class="home-features-item time">
-            <svg viewBox="0 0 58.58 50.99">
-              <use xlink:href="#time-home"></use>
-            </svg>
-            <strong>5 TRADING DAYS</strong>
-            <p> With 5 trading days in a week (Monday to Friday), our professionals will analyse the market condition to know the profitable hours to enter trades and make great profits and you can stop your investment at any time. </p>
-          </div>-->
-                        <video width="320" height="240" controls>
-                            <source src="https://astroforex.net/styles/img/video7.MP4" type="video/mp4">
-                            <source src="https://astroforex.net/styles/img/video7.MP4" type="video/ogg">
-                        </video> </div>
-                    <div class="col-md-4 col-sm-4 ">
-                        <!--
-          <div class="home-features-item investment">
-            <svg viewBox="0 0 49.05 57.09">
-              <use xlink:href="#investment-home"></use>
-            </svg>
-            <strong>SECURE AND RELIABLE </strong>
-            <p> All transactions on Meta Stack are secure and encrypted as your safety to us, comes first. We ensure a strong security on all accounts and when an unsual activity is detected, you will be prompted to do a verification challenge. Verification happens in real time </p>
-          </div>-->
-                        <video width="320" height="240" controls>
-                            <source src="https://astroforex.net/styles/img/video3.mp4" type="video/mp4">
-                            <source src="https://astroforex.net/styles/img/video3.mp4" type="video/ogg">
-                        </video> </div>
-                </div>
-            </div>
-        </div>
+        
 
     </header>
 
