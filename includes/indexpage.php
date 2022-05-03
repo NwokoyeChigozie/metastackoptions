@@ -272,15 +272,16 @@
                 </g>
             </svg>
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-6">
-                        <h1>Over<span> 20 Years ◦ </span><br>
-                            Of Experience</h1>
-                        <p>Within the last 5 years we have become one of the UK’s leading and forex trading company, as well as having a worldwide student base. Our performance is measured by the satisfaction of clients and can be widely seen online. There are reviews gathered by independent sources about Meta Stack that are publicly available. </p>
-                        <a onclick="openModal('register-modal')" class="btn btn--cta red-gradient" style="cursor: pointer">Get Started Now</a>
-                    </div>
-                </div>
-            </div>
+         <div class="row">
+           <div class="col-lg-5 col-md-5 col-sm-5 col-xs-6">
+             <h1><span> Staking ◦ </span><br></h1>
+             <p>Staking is the process of actively participating in transaction validation (similar to mining) on a proof-of-stake (PoS) blockchain. 
+               On these blockchains, anyone with a minimum-required balance of a specific cryptocurrency can validate transactions and earn Staking rewards. 
+               Generate regular passive income without the hassle of jumping into risky positions or need to obtain in-depth technical knowledge.</p>
+             <a onclick="openModal('register-modal')" class="btn btn--cta red-gradient" style="cursor: pointer">Get Started Now</a>
+           </div>
+         </div>
+       </div>
         </div>
         <div class="home-features" style="padding-bottom: 0px">
             <div class="container">
